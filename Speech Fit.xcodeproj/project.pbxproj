@@ -54,14 +54,22 @@
 		227ADAF3209292510006AE80 /* Speech Fit */ = {
 			isa = PBXGroup;
 			children = (
-				227ADAF4209292510006AE80 /* AppDelegate.swift */,
 				227ADAF6209292510006AE80 /* ViewController.swift */,
 				227ADAF8209292510006AE80 /* Main.storyboard */,
-				227ADAFB209292560006AE80 /* Assets.xcassets */,
-				227ADAFD209292560006AE80 /* LaunchScreen.storyboard */,
+				227ADB06209292DF0006AE80 /* Supporting Files */,
 				227ADB00209292560006AE80 /* Info.plist */,
 			);
 			path = "Speech Fit";
+			sourceTree = "<group>";
+		};
+		227ADB06209292DF0006AE80 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				227ADAF4209292510006AE80 /* AppDelegate.swift */,
+				227ADAFB209292560006AE80 /* Assets.xcassets */,
+				227ADAFD209292560006AE80 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
